@@ -1,6 +1,7 @@
-# Criação de API com Node
+# Star Wars API
+## Criação de API com Node e Mongoose
 
-## Documentação do projeto
+### Documentação do projeto
 > ## Objetivos:
 >
 >1. Construção de API
