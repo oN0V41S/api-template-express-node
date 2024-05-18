@@ -33,7 +33,7 @@ app.put('/:id',putFilm)
 // Executa aplicação na porta iniciada
 app.listen(port, ()=>{
     // String de Conexão com Banco
-    mongoose.connect('mongodb+srv://rafaelaugustonnovais:7KrTy3jABMVnNmOE@free-cluster.xkizxqe.mongodb.net/')
+    mongoose.connect(`mongodb+srv://rafaelaugustonnovais:9pQlF2hkrjSgzEYl@grupo-novais.xi2iqza.mongodb.net/`)
     
     console.log(`API rodando na porta ${port}`);
 })
